@@ -1,0 +1,2 @@
+# corporate-training-ld-standard-operating-procedures-library-notion-template
+Tired of each trainer running their own playbook, only to find that every new hire gets a completely different version of your corporate training? The Corporate Training &amp; L&amp;D Standard Operating Procedures Library Notion Template eliminates that chaos by giving you one single source of truth SOPs—designed to scale consistency across every classroom
